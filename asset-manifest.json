@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-basic/static/css/main.3b44e994.css",
+    "main.js": "/react-basic/static/js/main.c2cbe5bc.js",
+    "static/js/453.ed3810f9.chunk.js": "/react-basic/static/js/453.ed3810f9.chunk.js",
+    "static/media/HD wallpaper_ Desert, Half moon, Minimal, Dunes, 5K, Stars, sky, night, shape.jpg": "/react-basic/static/media/HD wallpaper_ Desert, Half moon, Minimal, Dunes, 5K, Stars, sky, night, shape.aebddb800943199e8bdd.jpg",
+    "static/media/logo.svg": "/react-basic/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-basic/index.html",
+    "main.3b44e994.css.map": "/react-basic/static/css/main.3b44e994.css.map",
+    "main.c2cbe5bc.js.map": "/react-basic/static/js/main.c2cbe5bc.js.map",
+    "453.ed3810f9.chunk.js.map": "/react-basic/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b44e994.css",
+    "static/js/main.c2cbe5bc.js"
+  ]
+}
